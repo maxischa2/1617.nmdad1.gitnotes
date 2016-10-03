@@ -1,9 +1,14 @@
 
 > Mijn persoonlijke AHS informatie
 
-| Loginnaam      | Afstudeerrichting | Voornaam | Familienaam | Email                              |
-| :-------:      | :-------:         | :------: | :---------: | :---------:
-| maxischa2      | MMP Prodev        | Maxime   | Schautteet  | <maxischa2@student.arteveldehs.be> |
+|                     |                                    |
+| :-----------------: | :--------------------------------: |
+| Student             | Maxime Schautteet                  |
+| Opleidingsonderdeel | New Media Design & Development     |
+| Afstudeerrichting   | Multimediaproductie (MMP)          |
+| Specialisatie       | proDev                             |
+| Academiejaar        | 2016-17                            |
+| Onderwijsinstelling | Arteveldehogeschool                |
 
 Mappen
 ------
