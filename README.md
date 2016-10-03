@@ -10,6 +10,8 @@
 | Academiejaar        | 2016-17                            |
 | Onderwijsinstelling | Arteveldehogeschool                |
 
+![Ik](../../Downloads/13528127_10207391545206527_1928287559949959862_o)
+
 Mappen
 ------
 
