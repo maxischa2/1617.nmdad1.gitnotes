@@ -1,11 +1,9 @@
 
-> My personal AHS information
+> Mijn persoonlijke AHS informatie
 
-| loginname      |    Value | Qty  |
-| :-------:      | :-------:| :--: |
-| maxischa2       | 1600 USD |  5   |
-| Phone          |   12 USD |  12  |
-| Pipe           |    1 USD | 234  |
+| Loginnaam      | Afstudeerrichting | Voornaam | Familienaam | Email                              |
+| :-------:      | :-------:         | :------: | :---------: | :---------:
+| maxischa2      | MMP Prodev        | Maxime   | Schautteet  | <maxischa2@student.arteveldehs.be> |
 
 Mappen
 ------
